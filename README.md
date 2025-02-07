@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iamcooi
+- 👋 Hi, I’m itzak
 - 👀 I’m interested in datascience
-- 🌱 I’m currently learning RNN
+- 🌱 I’m currently learning AI Algorithm and relevant knowledge
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
